@@ -54,7 +54,7 @@ npm install
 npm run dev
 ```
 
-Open `https://product-ops-triage.replit.app`, paste in your feedback (one item per line), and hit analyze.
+Open `https://product-feedback-analyzer.replit.app`, paste in your feedback (one item per line), and hit analyze.
 
 ---
 
